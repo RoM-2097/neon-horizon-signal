@@ -1,0 +1,1 @@
+{"dependencies":{"ws":"^8.18.0"},"description":"Lobby/signaling service for Neon Horizon real-time 1v1 duels","engines":{"node":">=18"},"main":"server.js","name":"neon-horizon-signal","scripts":{"start":"node server.js"},"version":"1.0.0"}
